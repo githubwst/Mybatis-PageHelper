@@ -1,6 +1,6 @@
 ## 重要提示  
 
-### `PageHelper.startPage`方法重要提示
+### `PageHelper.startPage`方法重要
 
 只有紧跟在`PageHelper.startPage`方法后的<b>第一个</b>Mybatis的<b>查询（Select）</b>方法会被分页。
 
